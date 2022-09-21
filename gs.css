@@ -1,0 +1,28 @@
+.speech {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black;
+
+}
+.direction{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black; 
+}
+.direction:hover{
+    color: aqua;
+    background-color: blue;
+}
+
+.PHOEBE{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black;
+    background-color: aquamarine;
+}
+.WILFRED{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    color: black;
+    background-color:beige;
+}
